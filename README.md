@@ -2,7 +2,7 @@
 <p align= "center"> <kbd> <img  src="https://cdn.discordapp.com/attachments/1049407887312699443/1062076531427524699/SPEEDER.png"width="400"> </kbd><br><br>
 
 <p>if you need help you can write on discord jVr#8365 / https://discord.gg/jasBCwQq6m </p>
-
+a
 
 ## Features:
 » Grab Discord Information and HQ Friends.
